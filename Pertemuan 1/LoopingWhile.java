@@ -12,3 +12,14 @@ public class LoopingWhile{
 		}
 	}
 }
+
+/**
+ * line 4 = menggunakan operator while untuk melakukan perulangan sebanyak kurang dari 11 kali dimana i = 0
+ * line 6 = menggunakan while untuk melakukan perulangan samapai batas maksimum dari while di line 4
+ * disini pada setiap baris akan di tampilkan * sesuai jumlah j
+ * contoh disaat nilai j = 4
+ * 		*
+ * 		**
+ * 		***
+ * 		****
+ */

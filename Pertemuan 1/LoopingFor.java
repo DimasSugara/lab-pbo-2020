@@ -7,3 +7,13 @@ public class LoopingFor{
 		}
 	}
 }
+
+/**
+ * line 3 = looping pertama
+ * line 4 = looping di dalam looping
+ * disini akan menampilkan * sesuai nilai j pada setiap baris sampai batas maksimum looping pertama
+ * contoh disaat nilai j = 3
+ * 		*
+ * 		**
+ * 		***
+ */
